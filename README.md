@@ -77,3 +77,4 @@ Profile Screen
 ## Catatan Akhir
 - Semoga dosen nggak lupa ngasih nilai **A+**, ya! 😊
 - Kalau ada bug, itu adalah fitur tak terduga yang akan diperbaiki di iterasi selanjutnya (alias maaf ya, hehehe).
+# uas-2024-2D-AvailDwiFebrianto
